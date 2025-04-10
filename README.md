@@ -69,8 +69,7 @@ This project aims to develop a versatile calculator that:
 |--------------------------|------------------------------------------|-----------|
 | Planning & Design        | Define structure, features, menus        | 1 Day     |
 | Core Implementation      | Build calculator logic                   | 2–3 Days  |
-| OOP Refactoring          | Separate logic into classes              | 2 Days    |
-| UI Improvements (optional)| GUI with Swing or JavaFX                | TBD       |
+| OOP Refactoring          | Separate logic into classes              | 2 Days  
 | Testing & Polishing      | Edge case handling, cleanup              | 1 Day     |
 
 ---
